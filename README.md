@@ -38,4 +38,4 @@ python -m Modules_and_Testing.math_series
 - [x] Add /series.py and test_series.py modules to your repository and commit frequently while working on your implementation. Include good commit messages that explain concisely both what you are doing and why. -->
 
 **Live PR URL**
-[link]()
+[link](https://github.com/BasharTaamneh/madlib-cli/pull/1)
